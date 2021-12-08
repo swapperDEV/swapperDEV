@@ -3,7 +3,6 @@
 
 ## I'm a student of high school!!
 
-- 🥅 December 2020 Start Learning Programming
 - 💼 November 2021 First React APP 
 
 
