@@ -1,7 +1,7 @@
 ### Hi there, I'm Wiktor 👋
 
 
-## I'm a student of high school!!
+## I'm a high school student!!
 
 - 💼 November 2021 First React APP 
 
