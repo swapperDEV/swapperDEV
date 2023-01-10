@@ -19,6 +19,5 @@
 <img align="left" alt="React Router" width="46px" src="https://www.loginradius.com/blog/static/a53096b6796dd3d1e3f3df8bc77a6689/03979/index.png" />
 <img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Mongo" width="46px" src="https://media.glassdoor.com/sqll/433703/mongodb-squareLogo-1639193521036.png" />
-<img align="left" alt="Python" width="46px" src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png
-" />
+<img align="left" alt="Python" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
 <img align="left" alt="Fast" width="46px" src="https://miro.medium.com/max/1400/0*NBHDwcLORYcBEsM1.jpg" />
