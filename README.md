@@ -3,7 +3,9 @@
 
 ## I'm a high school student!!
 
+- 👨‍🏫 October 2020 Start learning programming
 - 💼 November 2021 First React APP 
+- 🐍 December 2022 Start learning python
 
 
 ### ⚡ Languages and Tools:
