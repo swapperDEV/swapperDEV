@@ -5,6 +5,7 @@
 
 - 👨‍🏫 October 2020 Start learning programming
 - 💼 November 2021 First React APP 
+- ⭐ June 2022 Motorola SilverCode Finalist
 - 🐍 December 2022 Start learning python
 
 
@@ -21,5 +22,9 @@
 <img align="left" alt="React Router" width="40px" src="https://www.loginradius.com/blog/static/a53096b6796dd3d1e3f3df8bc77a6689/03979/index.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Mongo" width="40px" src="https://media.glassdoor.com/sqll/433703/mongodb-squareLogo-1639193521036.png" />
+
+### ⚡ Actually Learning:
 <img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
-<img align="left" alt="Fast" width="40px" src="https://miro.medium.com/max/1400/0*NBHDwcLORYcBEsM1.jpg" />
+<img align="left" alt="Node" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+<img align="left" alt="Express" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+<img align="left" alt="Fastify" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
