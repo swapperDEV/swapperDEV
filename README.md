@@ -24,5 +24,5 @@
 <img align="left" alt="Mongo" width="40px" src="https://media.glassdoor.com/sqll/433703/mongodb-squareLogo-1639193521036.png" />
 <img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
 <img align="left" alt="Node" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
-<img align="left" alt="Express" width="40px" src="https://expressjs.com/images/express-facebook-share.png"/>
+<img align="left" alt="Express" width="100px" src="https://expressjs.com/images/express-facebook-share.png"/>
 
