@@ -1,13 +1,12 @@
 ### Hi there, I'm Wiktor 👋
 
 
-## I'm a high school student!!
+## I study finance... and sometimes I run Visual Studio Code!!
 
 - 👨‍🏫 October 2020 Start learning programming
 - 💼 November 2021 First React APP 
 - ⭐ June 2022 Motorola SilverCode Finalist
-- 🐍 December 2022 Start learning python
-
+- 🐍 February 2025 Return...
 
 ### ⚡ Languages, Libraries, Frameworks & Technologies:
 
