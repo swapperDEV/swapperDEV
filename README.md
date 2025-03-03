@@ -6,7 +6,7 @@
 - 👨‍🏫 October 2020 Start learning programming
 - 💼 November 2021 First React APP 
 - ⭐ June 2022 Motorola SilverCode Finalist
-- 🐍 February 2025 Return...
+- 🐍 2025 will be mine 
 
 ### ⚡ Languages, Libraries, Frameworks & Technologies:
 
